@@ -23,8 +23,7 @@ def draw_cards(get_card,c_card_sum):
             game_cards["Computer Cards"].append(cards[random.randint(0, 12)])
             c_card_sum = sum_of_cards("Computer")
     
-       
-
+       #askdfjnaslkfjnaslk
 
 def win_con(get_card):
     if u_card_sum > 21:
